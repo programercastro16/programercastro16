@@ -1,62 +1,93 @@
-<h1 align="left">Hi 👋, I'm Thomas Castro</h1>
+<h1 align="center">
+  Hi 👋, I'm Thomas Castro
+</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+Enthusiast;Building+Real+World+Projects;Future+Full+Stack+Engineer" />
+</p>
 
-<p align="left">💻 Software Developer from Colombia 🇨🇴  <br>🚀 Passionate about building systems, web apps and solving real-world problems</p>
+---
 
-###
+<p align="center">
+  💻 Software Developer from Colombia 🇨🇴 <br>
+  🚀 Passionate about building systems, web apps and solving real-world problems
+</p>
 
-<h2 align="left">About me</h2>
+---
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=programadorcastro16&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<p align="left">✨ Creating projects since 2024  <br>📚 Currently learning: Backend development & system design  <br>💡 Interested in: Web development, automation and software architecture  <br>🎯 Goals: Become a full-stack developer and build impactful projects  <br>⚡ Fun fact: I enjoy turning ideas into real working systems</p>
+---
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
+<h2 align="center">🏆 Achievements</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programercastro16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=programercastro16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=programadorcastro16&theme=matrix&no-frame=true&margin-w=10" />
 </div>
 
-###
+---
 
-<p align="left">🚀 Projects<br><br>- 🧾 **Software de Auditorías**  <br>  Sistema para gestión y control de auditorías.  <br><br>- ⚽ **ITM Sports League**  <br>  Gestión de ligas deportivas y equipos.  <br><br>- ⚖️ **Judicial Scraper (WIP)**  <br>  Automatización de recolección de datos judiciales.    <br><br>- 🌐 **Página Web CONOBRAS**  <br>  Desarrollo web para empresa.</p>
+<h2 align="center">🧠 Tech Stack</h2>
 
-###
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,git,cs,mysql,dotnet,linux" />
+</div>
 
-<img src="https://raw.githubusercontent.com/programercastro16/programercastro16/output/snake.svg" alt="Snake animation" />
+---
 
-###
+<h2 align="center">📊 Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=programadorcastro16&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=programadorcastro16&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+<h2 align="center">🔥 Streak</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=programadorcastro16&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+<h2 align="center">🚀 Projects</h2>
+
+<p align="center">
+🧾 <b>Software de Auditorías</b><br>
+Sistema para gestión y control de auditorías.<br><br>
+
+⚽ <b>ITM Sports League</b><br>
+Gestión de ligas deportivas y equipos.<br><br>
+
+⚖️ <b>Judicial Scraper (WIP)</b><br>
+Automatización de recolección de datos judiciales.<br><br>
+
+🌐 <b>Página Web CONOBRAS</b><br>
+Desarrollo web para empresa.
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/programadorcastro16/programadorcastro16/output/snake.svg" />
+</div>
+
+---
+
+<h2 align="center">🌐 Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/programadorcastro16">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">⚡ "Turning ideas into real systems"</h3>
